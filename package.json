@@ -35116,7 +35116,7 @@
     "@types/sshpk": "^1.10.3",
     "@types/tmp": "0.0.32",
     "@types/uuid": "^2.0.29",
-    "mocha": "^2.3.3",
+    "mocha": "^10.4.0",
     "typescript": "^2.8.1",
     "vscode": "^1.1.14"
   },
